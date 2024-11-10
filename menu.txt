@@ -1,0 +1,27 @@
+-------------------------------------------------------------------------------
+|                    ______________________________________                   |
+|                   |                                      |                  |
+|           ________|         PC Optimization tool         |_______           |
+|           \       |                                      |      /           |
+|            \      |            by stitched               |     /            |
+|            /      |______________________________________|     \            |
+|           /__________)          0. credits            (_________\           |
+|                                                                             |
+|  1. Clear Windows Delivery Optimization        9. Clear DirectX Shader Cache| 
+|  2. Clear Windows Store Cache                 10. Clear Browser Cache       |    
+|  3. Clear Windows Update Cache                11. Clear DNS Cache           |  
+|  4. Clear Windows Log Files                   12. Disable Startup Programs  |
+|  5. Clear Memory Dump Files                   13. Disable DumbServices      |
+|  6. Clear Temporary Files                     14. Disable Windows Effects   |
+|  7. Clear Prefetch Files                      15. Defragment Hard Drive     |
+|  8. Free Up RAM                                                             |
+|                                                                             |
+|                         16. Run All Optimizations (barely works)            |
+|                        17. Restart Windows Explorer                         |
+|                    18. Set High-Performance Power Plan                      |
+|                   19. Scan and Display PC Specification                     |
+|                20. Enable Ultimate Preformance Power Plan                   |
+|                          21. Clear Recycle Bin                              |
+|                             22. Game Mode on                                |
+|                                23. Exit                                     |
+-------------------------------------------------------------------------------
