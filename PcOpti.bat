@@ -436,9 +436,9 @@ call :SetTitle "Credits"
 echo =========================================================================================
 echo                      Thank you for using the PC Optimization Tool!
 echo.
-echo                        GitHub: https://github.com/St1tchedd
-echo                               Discord: St1tched.
-echo                       YouTube: https://www.youtube.com/@SSt1tched
+echo                        GitHub: https://github.com/drugslolz
+echo                               Discord: drugslolz
+echo                       YouTube: https://www.youtube.com/@drugslolz
 echo =========================================================================================
 pause
 goto menu
